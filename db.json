@@ -1,111 +1,113 @@
-{
-  "sustainability":[
-    {
-      "id":1,
-      "type":"nature",
-      "icon":"Natur",
-      "title":"Natur",
-      "text":"u.a. mit den Teilbereichen wie Klimaschutz, Bodenschutz und Bodenfruchtbarkeit, Biodiversität und Artenvielfalt, Wasserschutz und Wasserverbrauch"
-    },
-    {
-      "id":2,
-      "type":"economics",
-      "icon":"Natur",
-      "title":"Wirtschaften",
-      "text":"Wirtschaften u.a. mit den Teilbereichen wie langfristige Investitionen, Investitionen in die Nachhaltigkeit, Wirtschaftlichkeit und stabile Lieferbeziehungen"
-    },
-    {
-      "categories":[
-        {
-          "title":"Investitionen",
-          "items":[
-            {
-              "title":"Kontinuierliche interne Investitionen zielen darauf ab die Nachhaltigkeitsleistung zu verbessern.",
-              "text":"Kontinuierliche interne Investitionen zielen darauf ab die Nachhaltigkeitsleistung zu verbessern."
-            },
-            {
-              "title":"Gemeinnützige Investitionen",
-              "text":"Der Ausstoß von Durch seine Investitionen trägt der Betrieb zur nachhaltigen Entwicklung der Gemeinschaft bei. und ozonabbauenden Stoffen wird verhindert."
-            },
-            {
-              "title":"Langfristige Investitionen",
-              "text":"Investitionen in z.B. Produktionsstätten oder Ressourcen zielen auf langfristige Nachhaltigkeit statt auf kurzfristige Profite ab."
-            },
-            {
-              "title":"Wirtschaftlichkeit",
-              "text":"Durch seine Investitionen und Geschäftstätigkeiten schafft es der Betrieb, ein positives Geschäftsergebnis zu erzielen."
-            }
-          ]
-        },
-        {
-          "title":"Wirtschaftliche Sicherheit, Wirtschaftliche Stabilität",
-          "items":[
-            {
-              "title":"Produktionsstabilität",
-              "text":"Die Produktion (Menge und Qualität) ist ausreichend widerstandsfähig, um ökologische, soziale und wirtschaftliche Krisen abzufedern und sich ihnen anzupassen."
-            },
-            {
-              "title":"Stabile Lieferbeziehungen",
-              "text":"Stabile Geschäftsbeziehungen mit einer ausreichenden Anzahl an Zulieferern sind sichergestellt und alternative Beschaffungskanäle stehen zur Verfügung."
-            },
-            {
-              "title":"Stabiler Absatz",
-              "text":"Ausreichende Kunden, eine vielfältige Einkommensstruktur und alternative Vermarktungskanäle stehen zur Verfügung."
-            },
-            {
-              "title":"Zahlungsfähigkeit",
-              "text":"Durch finanzielle Liquidität, den Zugang zu Krediten und Versicherungen werden Zahlungsausfälle verhindert."
-            },
-            {
-              "title":"Risikomanagement",
-              "text":"Strategien bestehen, um internen und externen Risiken und Gefahren als Betrieb standhalten zu können."
-            }
-          ]
-        },
-        {
-          "title":"Produktwertigkeit",
-          "items":[
-            {
-              "title":"Lebensmittelsicherheit",
-              "text":"Lebensmittelgefahren werden systematisch kontrolliert und jede Verunreinigung von Lebensmitteln mit potenziell schädlichen Substanzen wird vermieden."
-            },
-            {
-              "title":"Lebensmittelqualität",
-              "text":"Bei der Lebensmittelproduktion werden höchstmögliche Qualität und Nährwerte erzielt."
-            },
-            {
-              "title":"Produktinformationen",
-              "text":"Vollständige und korrekte Informationen zu Produkten sind öffentlich zugänglich und nicht irreführend."
-            }
-          ]
-        },
-        {
-          "title":"Regionale Ökonomie",
-          "items":[
-            {
-              "title":"Regionale Wertschöpfung",
-              "text":"Die lokale Wirtschaft wird durch Schaffung von Arbeitsplätzen und Zahlung lokaler Steuern gestärkt."
-            },
-            {
-              "title":"Regionaler Einkauf",
-              "text":"Die lokale Wirtschaft wird durch Bezug der Rohwaren lokaler Lieferanten gefördert."
-            }
-          ]
-        }
-      ],
-      "id":3,
-      "type":"people",
-      "icon":"ShakingHands",
-      "title":"Menschen",
-      "text":"u.a. mit den Teilbereichen wie faire Handelspraktiken, Gesundheit, Lebensgestaltung, traditionelles Wissen, Ernährungssouveränität etc."
-    },
-    {
-      "id":4,
-      "type":"organisation",
-      "icon":"Squares",
-      "subcategory":"Organisation",
-      "title":"Organisation",
-      "text":"u.a. mit den Teilbereichen wie gesellschaftliche Verantwortung, Transparenz, Unternehmensethik, Ressourcenbeschaffung"
-    }
-  ]
-}
+[
+  {
+    "id":1,
+    "type":"nature",
+    "icon":"Natur",
+    "title":"Natur",
+    "text":"u.a. mit den Teilbereichen wie Klimaschutz, Bodenschutz und Bodenfruchtbarkeit, Biodiversität und Artenvielfalt, Wasserschutz und Wasserverbrauch"
+  },
+  {
+    "id":2,
+    "type":"economics",
+    "icon":"Natur",
+    "title":"Wirtschaften",
+    "text":"Wirtschaften u.a. mit den Teilbereichen wie langfristige Investitionen, Investitionen in die Nachhaltigkeit, Wirtschaftlichkeit und stabile Lieferbeziehungen"
+  },
+  {
+    "categories":[
+      {
+        "title":"Investitionen",
+        "items":[
+          {
+            "title":"Kontinuierliche interne Investitionen zielen darauf ab die Nachhaltigkeitsleistung zu verbessern.",
+            "text":"Kontinuierliche interne Investitionen zielen darauf ab die Nachhaltigkeitsleistung zu verbessern."
+          },
+          {
+            "title":"Gemeinnützige Investitionen",
+            "text":"Der Ausstoß von Durch seine Investitionen trägt der Betrieb zur nachhaltigen Entwicklung der Gemeinschaft bei. und ozonabbauenden Stoffen wird verhindert."
+          },
+          {
+            "title":"Langfristige Investitionen",
+            "text":"Investitionen in z.B. Produktionsstätten oder Ressourcen zielen auf langfristige Nachhaltigkeit statt auf kurzfristige Profite ab."
+          },
+          {
+            "title":"Wirtschaftlichkeit",
+            "text":"Durch seine Investitionen und Geschäftstätigkeiten schafft es der Betrieb, ein positives Geschäftsergebnis zu erzielen."
+          }
+        ]
+      },
+      {
+        "title":"Wirtschaftliche Sicherheit, Wirtschaftliche Stabilität",
+        "items":[
+          {
+            "title":"Produktionsstabilität",
+            "text":"Die Produktion (Menge und Qualität) ist ausreichend widerstandsfähig, um ökologische, soziale und wirtschaftliche Krisen abzufedern und sich ihnen anzupassen."
+          },
+          {
+            "title":"Stabile Lieferbeziehungen",
+            "text":"Stabile Geschäftsbeziehungen mit einer ausreichenden Anzahl an Zulieferern sind sichergestellt und alternative Beschaffungskanäle stehen zur Verfügung."
+          },
+          {
+            "title":"Stabiler Absatz",
+            "text":"Ausreichende Kunden, eine vielfältige Einkommensstruktur und alternative Vermarktungskanäle stehen zur Verfügung."
+          },
+          {
+            "title":"Zahlungsfähigkeit",
+            "text":"Durch finanzielle Liquidität, den Zugang zu Krediten und Versicherungen werden Zahlungsausfälle verhindert."
+          },
+          {
+            "title":"Risikomanagement",
+            "text":"Strategien bestehen, um internen und externen Risiken und Gefahren als Betrieb standhalten zu können."
+          }
+        ]
+      },
+      {
+        "title":"Produktwertigkeit",
+        "items":[
+          {
+            "title":"Lebensmittelsicherheit",
+            "text":"Lebensmittelgefahren werden systematisch kontrolliert und jede Verunreinigung von Lebensmitteln mit potenziell schädlichen Substanzen wird vermieden."
+          },
+          {
+            "title":"Lebensmittelqualität",
+            "text":"Bei der Lebensmittelproduktion werden höchstmögliche Qualität und Nährwerte erzielt."
+          },
+          {
+            "title":"Produktinformationen",
+            "text":"Vollständige und korrekte Informationen zu Produkten sind öffentlich zugänglich und nicht irreführend."
+          }
+        ]
+      },
+      {
+        "title":"Regionale Ökonomie",
+        "items":[
+          {
+            "title":"Regionale Wertschöpfung",
+            "text":"Die lokale Wirtschaft wird durch Schaffung von Arbeitsplätzen und Zahlung lokaler Steuern gestärkt."
+          },
+          {
+            "title":"Regionaler Einkauf",
+            "text":"Die lokale Wirtschaft wird durch Bezug der Rohwaren lokaler Lieferanten gefördert."
+          },
+          {
+            "title":"Produktinformationen",
+            "text":"Vollständige und korrekte Informationen zu Produkten sind öffentlich zugänglich und nicht irreführend."
+          }
+        ]
+      }
+    ],
+    "id":3,
+    "type":"people",
+    "icon":"ShakingHands",
+    "title":"Menschen",
+    "text":"u.a. mit den Teilbereichen wie faire Handelspraktiken, Gesundheit, Lebensgestaltung, traditionelles Wissen, Ernährungssouveränität etc."
+  },
+  {
+    "id":4,
+    "type":"organisation",
+    "icon":"Squares",
+    "subcategory":"Organisation",
+    "title":"Organisation",
+    "text":"u.a. mit den Teilbereichen wie gesellschaftliche Verantwortung, Transparenz, Unternehmensethik, Ressourcenbeschaffung"
+  }
+]
