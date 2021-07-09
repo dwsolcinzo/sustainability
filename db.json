@@ -1,31 +1,58 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "categorie":[
+      {
+        "uid":3
+      },
+    ],
+    "sub-categorie":[
+      {
+        "category":"Investitionen"
+      },
+    ],	
+    "title":"Investitionen in die Nachhaltigkeit",
+    "text":"Kontinuierliche interne Investitionen zielen darauf ab die Nachhaltigkeitsleistung zu verbessern.",
+  },
+  {
+    "categorie":[
+      {
+        "uid":3
+      },
+    ],
+    "sub-categorie":[
+      {
+        "category":"Investitionen"
+      },
+    ],	
+    "title":"Gemeinnützige Investitionen",
+    "text":"Der Ausstoß von Durch seine Investitionen trägt der Betrieb zur nachhaltigen Entwicklung der Gemeinschaft bei. und ozonabbauenden Stoffen wird verhindert.",
+  },
+  {
+    "categorie":[
+      {
+        "uid":3
+      },
+    ],
+    "sub-categorie":[
+      {
+        "category":"Investitionen"
+      },
+    ],	
+    "title":"Langfristige Investitionen",
+    "text":"Investitionen in z.B. Produktionsstätten oder Ressourcen zielen auf langfristige Nachhaltigkeit statt auf kurzfristige Profite ab.",
+  },
+  {
+    "categorie":[
+      {
+        "uid":3
+      },
+    ],
+    "sub-categorie":[
+      {
+        "category":"Investitionen"
+      },
+    ],	
+    "title":"Wirtschaftlichkeit",
+    "text":"Durch seine Investitionen und Geschäftstätigkeiten schafft es der Betrieb, ein positives Geschäftsergebnis zu erzielen.",
+  },
+]
