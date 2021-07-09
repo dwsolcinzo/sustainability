@@ -1,58 +1,216 @@
 [
   {
-    "categorie":[
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":2
+      },
       {
         "uid":3
       },
-    ],
-    "sub-categorie":[
       {
-        "category":"Investitionen"
-      },
-    ],	
-    "title":"Investitionen in die Nachhaltigkeit",
-    "text":"Kontinuierliche interne Investitionen zielen darauf ab die Nachhaltigkeitsleistung zu verbessern.",
+        "uid":4
+      }
+    ],
+    "title":"Test News #15",
+    "uid":39
   },
   {
-    "categorie":[
+    "categories":[
+      {
+        "uid":2
+      },
       {
         "uid":3
       },
-    ],
-    "sub-categorie":[
       {
-        "category":"Investitionen"
-      },
-    ],	
-    "title":"Gemeinnützige Investitionen",
-    "text":"Der Ausstoß von Durch seine Investitionen trägt der Betrieb zur nachhaltigen Entwicklung der Gemeinschaft bei. und ozonabbauenden Stoffen wird verhindert.",
+        "uid":4
+      }
+    ],
+    "title":"Test News #14",
+    "uid":38
   },
   {
-    "categorie":[
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":2
+      },
       {
         "uid":3
       },
-    ],
-    "sub-categorie":[
       {
-        "category":"Investitionen"
-      },
-    ],	
-    "title":"Langfristige Investitionen",
-    "text":"Investitionen in z.B. Produktionsstätten oder Ressourcen zielen auf langfristige Nachhaltigkeit statt auf kurzfristige Profite ab.",
+        "uid":4
+      }
+    ],
+    "title":"Test News #13",
+    "uid":37
   },
   {
-    "categorie":[
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #12",
+    "uid":36
+  },
+  {
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":2
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #11",
+    "uid":35
+  },
+  {
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":2
+      },
       {
         "uid":3
       },
-    ],
-    "sub-categorie":[
       {
-        "category":"Investitionen"
+        "uid":4
+      }
+    ],
+    "title":"Test News #6",
+    "uid":30
+  },
+  {
+    "categories":[
+      {
+        "uid":1
       },
-    ],	
-    "title":"Wirtschaftlichkeit",
-    "text":"Durch seine Investitionen und Geschäftstätigkeiten schafft es der Betrieb, ein positives Geschäftsergebnis zu erzielen.",
+      {
+        "uid":2
+      },
+      {
+        "uid":3
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #9",
+    "uid":33
+  },
+  {
+    "categories":[
+      {
+        "uid":2
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #8",
+    "uid":32
+  },
+  {
+    "categories":[
+      
+    ],
+    "title":"Test News #7",
+    "uid":31
+  },
+  {
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":2
+      },
+      {
+        "uid":3
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #10",
+    "uid":34
+  },
+  {
+    "categories":[
+      {
+        "uid":2
+      },
+      {
+        "uid":1
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #3",
+    "uid":24
+  },
+  {
+    "categories":[
+      {
+        "uid":3
+      }
+    ],
+    "title":"Test News #2",
+    "uid":23
+  },
+  {
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":3
+      }
+    ],
+    "title":"Test News #1",
+    "uid":22
+  },
+  {
+    "categories":[
+      {
+        "uid":1
+      },
+      {
+        "uid":2
+      },
+      {
+        "uid":3
+      },
+      {
+        "uid":4
+      }
+    ],
+    "title":"Test News #5",
+    "uid":29
+  },
+  {
+    "categories":[
+      {
+        "uid":1
+      }
+    ],
+    "title":"Test News #4",
+    "uid":12
   }
 ]
