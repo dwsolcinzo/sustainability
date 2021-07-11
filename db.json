@@ -111,5 +111,175 @@
       "title":"Organisation",
       "text":"u.a. mit den Teilbereichen wie gesellschaftliche Verantwortung, Transparenz, Unternehmensethik, Ressourcenbeschaffung"
     }
+  ],
+  "farmers":[
+    {
+      "id":1,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":2,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":3,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":4,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":5,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":6,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":7,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":8,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":9,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":10,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":11,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":12,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":13,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":14,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":15,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":16,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":17,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":18,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":19,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":20,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":21,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":22,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":23,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":24,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":25,
+      "title":"Bio-Bauernhof Familie Breuer",
+      "place":"Marchfeld",
+	  "type":"Obst & Gemüse"
+    },
+    {
+      "id":26,
+      "title":"Bio-Bauernhof Familie Fanzler",
+      "place":"Neusiedlersee",
+	  "type":"Getreide"
+    },
+    {
+      "id":27,
+      "title":"Bio-Bauernhof Familie Schreiner",
+      "place":"Kremsmünster",
+	  "type":"Geflügel"
+    },
+    {
+      "id":28,
+      "title":"Bio-Bauernhof Familie Auer",
+      "place":"Südsteiermark",
+	  "type":"Obst & Gemüse"
+    }
   ]
 }
